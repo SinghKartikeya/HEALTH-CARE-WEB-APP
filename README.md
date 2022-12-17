@@ -12,6 +12,7 @@ https://www.kaggle.com/ronitf/heart-disease-uci
 
 https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
+
 # TECHNOLOGIES USED
 
 ![68747470733a2f2f7777772e66726565706e67696d672e636f6d2f7468756d622f707974686f6e5f6c6f676f2f372d322d707974686f6e2d6c6f676f2d667265652d646f776e6c6f61642d706e672d7468756d622e706e67](https://user-images.githubusercontent.com/79755342/208233976-c005a45f-eae1-4683-abcf-03d74fe69fac.png)
